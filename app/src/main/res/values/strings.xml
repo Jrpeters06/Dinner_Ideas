@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dinner Ideas</string>
+    <string name="Header1">Header1</string>
+    <string name="dinner_ideas">..Dinner Ideas..</string>
+    <string name="do_you_have_a_hard_time_deciding_what_your_want_for_dinner">Do you have a hard time deciding what your want for dinner?</string>
+    <string name="Mainimage">Mainimage</string>
+    <string name="we_have_an_answer_for_you">We have an answer for you -</string>
+    <string name="dinner_idea_s_is_an_app_to_help_you_decide_what_you_want_for_dinner">Dinner idea’s is an app to help you decide what you want for dinner.</string>
+    <string name="randon_dinner">Randon Dinner</string>
+    <string name="whats_for_dinner">Whats for dinner?</string>
+    <string name="pick_choose">Pick and Choose</string>
+    <string name="image2">whatsfordinner</string>
+    <string name="if_you_want_to_pick_a_dinner_idea_at_randon_click_the_random_dinner_button">If you want to pick a dinner idea at randon click the Random Dinner button</string>
+    <string name="if_you_click_on_cusomize_dinner_we_will_pick_a_dinner_idea_from_the_few_questions_we_ask">If you click on Cusomize Dinner we will pick a dinner idea from the few questions we ask.</string>
+    <string name="PICKANDCHOOSE">pickandchoose</string>
+    <string name="pick_and_choose">PICK AND CHOOSE</string>
+    <string name="customize_dinner">Customize Dinner</string>
+    <string name="home">Home</string>
+    <string name="beef_goulash">* Beef Goulash *</string>
+    <string name="home2">Home</string>
+    <string name="recipe">recipe</string>
+</resources>
